@@ -1,6 +1,6 @@
 # citysportswear.github.io
 
-# My Name
+# CITY SPORTSWEAR
 
 ### I am an artist. This is my portfolio site.
 
