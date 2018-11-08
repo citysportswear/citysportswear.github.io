@@ -1,11 +1,4 @@
 body {
-    background-image: url(https://pbs.twimg.com/media/DE9EJyWXUAUpjRJ.jpg:large);
-    background-repeat: no-repeat;
-    background-position: 50% -100% ;
-
-  }
-
-
 
 p{
   font-family: "Times New Roman", Times, serif;
@@ -23,8 +16,7 @@ h1 {
   padding: 50px;
   border: 5px solid orange;
   margin: auto;
-
-
+}
 
 
 }
