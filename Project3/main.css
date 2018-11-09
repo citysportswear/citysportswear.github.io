@@ -1,8 +1,25 @@
 body {
 
   font-family: "Times New Roman", Times, serif;
-  font-size: 50px;
+  font-size: 25px;
   color: orange
+}
+
+.myvideo {
+  padding-top: 250px;
+   padding-right:  250px;
+   padding-bottom: 250px;
+   padding-left: 250px;
+}
+
+.emoji1 {
+  padding-top: 250px;
+   padding-right: 250px;
+   padding-bottom: 250px;
+   padding-left: 500px;
+}
+
+.WHATMAKESYOUHAPPY
 }
 
 h1 {
